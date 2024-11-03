@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-data-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dakarakoso/algorithms-data-structure.git"
+  },
+  "author": "Willian Maruyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dakarakoso/algorithms-data-structure/issues"
+  },
+  "homepage": "https://github.com/Dakarakoso/algorithms-data-structure#readme",
+  "description": ""
+}
